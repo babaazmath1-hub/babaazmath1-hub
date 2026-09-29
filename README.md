@@ -1,6 +1,11 @@
 <div align="center">
+<div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="AZMATH - AI/ML Engineer"/>
+<img src="./ChatGPT%20Image%20Sep%2029,%202026,%2002_22_20%20PM.png"
+     width="100%"
+     alt="AZMATH - AI/ML Engineer"/>
+
+</div>
 
 <br>
 
