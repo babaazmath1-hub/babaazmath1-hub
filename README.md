@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 <img src="./ChatGPT%20Image%20Sep%2029,%202026,%2002_22_20%20PM.png"
      width="100%"
@@ -11,9 +10,9 @@
 
 <a href="https://github.com/babaazmath1-hub">
 <img src="https://img.shields.io/badge/GitHub-BABAAZMATH1--HUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</a>     
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/baba-azmath-5b798a379" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-AZMATH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
