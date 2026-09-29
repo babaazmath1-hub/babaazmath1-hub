@@ -56,37 +56,68 @@ I'm an aspiring **AI/ML Engineer** focused on building practical machine learnin
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎙️ FaceVoxAI
 
-AI-powered attendance management system using **Face Recognition and Voice Recognition**.
+AI-powered attendance management system using face and voice recognition.
 
-**Tech:** Python • Machine Learning • Face Recognition • Voice Recognition • SVM
+**Tech:** Python • ML • SVM • Computer Vision
 
----
+<a href="https://github.com/babaazmath1-hub">
+<img src="https://img.shields.io/badge/PROJECT%20REPOSITORY-181717?style=for-the-badge&logo=github">
+</a>
 
-### 💳 CreditWise
+</td>
 
-AI-powered loan approval prediction system that uses machine learning to assist with loan eligibility decisions.
-
-**Tech:** Python • Machine Learning • Scikit-learn • Streamlit
-
----
-
-### 🤖 RunbookAI
-
-AI-powered runbook automation system designed to understand and execute technical operational workflows.
-
-**Tech:** Python • AI Agents • APIs • Automation
-
----
+<td width="50%">
 
 ### 🧠 OpenEnv Invotex
 
 Multi-domain reinforcement learning environment developed for the Meta × PyTorch × Hugging Face OpenEnv Hackathon.
 
-**Tech:** Python • Reinforcement Learning • OpenEnv
+**Tech:** Python • RL • OpenEnv
 
----
+<a href="https://github.com/babaazmath1-hub/openenv_invotex_">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Score Predictor
+
+Machine-learning project for predicting scores using a trained ML model.
+
+**Tech:** Python • Machine Learning • Scikit-learn
+
+<a href="https://github.com/babaazmath1-hub/ai-score-predictor">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔐 Hushh Vault
+
+Backend-focused application involving API development and data management.
+
+**Tech:** FastAPI • Python • SQL • Backend
+
+<a href="https://github.com/babaazmath1-hub/hushh-vault">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github">
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎮 Snake Game
 
@@ -94,17 +125,38 @@ Classic Snake game built with Python and Pygame.
 
 **Tech:** Python • Pygame
 
+<a href="https://github.com/babaazmath1-hub/snake-game-python">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 App Generator
+
+Web-based application generator project.
+
+**Tech:** JavaScript • Web Development
+
+<a href="https://github.com/babaazmath1-hub/-app-generator">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=babaazmath1-hub&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaazmath1-hub&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- 🚀 Building AI/ML projects and intelligent applications
+- 🐍 Python & Machine Learning
+- 🤖 Generative AI & LLM applications
+- ⚡ FastAPI & backend development
+- 🧠 Exploring AI agents and automation
 
 ---
 
