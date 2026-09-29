@@ -1,15 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm AZMATH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=AZMATH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%"/>
 
-### AI/ML Engineer | Python | Machine Learning | Generative AI
-
-Building practical AI systems and intelligent applications.
+### Building practical AI systems and intelligent applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-babaazmath1--hub-181717?style=for-the-badge&logo=github)](https://github.com/babaazmath1-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
+
+---
 
 ---
 
