@@ -1,200 +1,178 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=AZMATH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%"/>
+# 👋 Hi, I'm AZMATH
 
-### Building practical AI systems and intelligent applications.
+### AI/ML Engineer • Machine Learning • Generative AI • LLMs
 
-[![GitHub](https://img.shields.io/badge/GitHub-babaazmath1--hub-181717?style=for-the-badge&logo=github)](https://github.com/babaazmath1-hub)
+Building practical AI systems, intelligent applications, and LLM-powered solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+<br>
+
+<a href="https://github.com/babaazmath1-hub">
+  <img src="https://img.shields.io/badge/GitHub-babaazmath1--hub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/baba-azmath-5b798a379/">
+  <img src="https://img.shields.io/badge/LinkedIn-AZMATH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
----
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
+I'm a **B.Tech student in Artificial Intelligence & Machine Learning** focused on building practical AI/ML applications.
 
-I'm an aspiring **AI/ML Engineer** focused on building practical machine learning and AI applications.
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 🐍 Python & Machine Learning
-- 🤖 Generative AI & LLMs
-- 🧠 NLP & Computer Vision
-- ⚡ FastAPI & Flask
-- 🗄️ SQL & Databases
-- 🌐 React & Streamlit
-- 🚀 Interested in AI Engineering and intelligent automation
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Dhanalakshmi Srinivasan University · 2023–2027  
+🤖 Machine Learning & Generative AI  
+🧠 NLP & Computer Vision  
+🔬 LLM Evaluation & AI Agents  
+⚙️ Python & Machine Learning  
+🚀 Interested in AI/ML Engineering and intelligent automation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### AI / Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧠 AI Specializations
 
-### Generative AI
-![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
+`Supervised Learning` · `Unsupervised Learning` · `Reinforcement Learning`
+
+`NLP` · `Computer Vision` · `Feature Engineering`
+
+`Model Evaluation` · `Fine-Tuning` · `LLM Benchmarking`
+
+`AI Agents` · `Biometric AI` · `Anti-Spoofing`
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🧠 Smart Mentor
+**AI-Powered Personalized Learning Platform · Team Lead**
 
-### 🎙️ FaceVoxAI
+A personalized learning platform that creates career-focused learning paths based on student skills, interests, and goals.
 
-AI-powered attendance management system using face and voice recognition.
+**Tech:** Python · Machine Learning · NLP · ChatGPT API
 
-**Tech:** Python • ML • SVM • Computer Vision
-
-<a href="https://github.com/babaazmath1-hub">
-<img src="https://img.shields.io/badge/PROJECT%20REPOSITORY-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 OpenEnv Invotex
-
-Multi-domain reinforcement learning environment developed for the Meta × PyTorch × Hugging Face OpenEnv Hackathon.
-
-**Tech:** Python • RL • OpenEnv
-
-<a href="https://github.com/babaazmath1-hub/openenv_invotex_">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI Score Predictor
-
-Machine-learning project for predicting scores using a trained ML model.
-
-**Tech:** Python • Machine Learning • Scikit-learn
-
-<a href="https://github.com/babaazmath1-hub/ai-score-predictor">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔐 Hushh Vault
-
-Backend-focused application involving API development and data management.
-
-**Tech:** FastAPI • Python • SQL • Backend
-
-<a href="https://github.com/babaazmath1-hub/hushh-vault">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github">
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 Snake Game
-
-Classic Snake game built with Python and Pygame.
-
-**Tech:** Python • Pygame
-
-<a href="https://github.com/babaazmath1-hub/snake-game-python">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 App Generator
-
-Web-based application generator project.
-
-**Tech:** JavaScript • Web Development
-
-<a href="https://github.com/babaazmath1-hub/-app-generator">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-</tr>
-</table>
+- 🎯 Personalized learning paths based on student profiles
+- 📚 Integrated projects, courses, labs, and mock interviews
+- 📊 Performance insights and AI-powered assistance
+- 🚀 Developed as a working prototype
 
 ---
 
+### 🤖 OpenEnv Invotex
+**RL Environment for LLM Agent Benchmarking · Team Lead**
 
-## 📊 GitHub Activity
+A containerized multi-domain reinforcement-learning environment designed for evaluating LLM agents.
 
-- 🚀 Building AI/ML projects and intelligent applications
-- 🐍 Python & Machine Learning
-- 🤖 Generative AI & LLM applications
-- ⚡ FastAPI & backend development
-- 🧠 Exploring AI agents and automation
+**Tech:** Python · PyTorch · Reinforcement Learning · Unsloth · Containerization
+
+- 📧 Email Triage environment
+- 💬 Customer Support environment
+- 🚦 Traffic Control environment
+- 🧠 Fine-tuned Llama-3 8B using Unsloth
+- 🔌 Implemented OpenEnv-compatible APIs
+- 🏆 Meta PyTorch OpenEnv Hackathon Finalist
+- 🌍 Top 800 of 31,000+ teams globally
 
 ---
 
-## 🔥 GitHub Streak
+### 💳 CreditWise
+**AI-Powered Loan Approval Prediction System · Team Lead**
 
-<div align="center">
+A machine learning system that predicts loan approval eligibility using applicant financial and demographic data.
 
-<img src="https://streak-stats.demolab.com?user=babaazmath1-hub&theme=tokyonight&hide_border=true" />
+**Tech:** Python · Scikit-learn · Flask · Chart.js · Three.js · jsPDF
 
-</div>
+- 🔍 Performed data preprocessing and exploratory analysis
+- 📊 Identified important factors such as income, credit history, and loan amount
+- 🤖 Compared Logistic Regression, Decision Tree, and Random Forest
+- 📈 Evaluated models using accuracy, precision, recall, and confusion matrix
+- 🏦 Submitted to the IDBI Innovate Competition
+
+---
+
+### 👁️ FaceVoxAI
+**Multi-Modal AI Attendance & Biometric Verification**
+
+An AI-powered attendance system combining face recognition, voice identification, and passive liveness detection.
+
+**Tech:** Python · Streamlit · Supabase · dlib · Resemblyzer · Librosa · NumPy · Plotly
+
+- 👤 Combined face and voice recognition for attendance verification
+- 🔐 Implemented biometric verification workflows
+- 🛡️ Added passive liveness and anti-spoofing detection
+- 🗄️ Used Supabase PostgreSQL with row-level security
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Hackathon participant
-- 🚀 AI/ML project builder
-- 🤖 Generative AI & LLM projects
-- 💻 Open-source development
-- 🧠 Machine Learning projects
+🏅 **Meta PyTorch OpenEnv Hackathon Finalist**  
+🌍 Top 800 of 31,000+ teams globally  
+👨‍💻 Team Lead – Team Invotex  
+🏦 IDBI Innovate Competition – CreditWise submission  
+🎓 Machine Learning Intern – Cognifyz Technologies  
+🚀 Built and prototyped Smart Mentor AI learning platform
 
 ---
 
-## 📚 Currently Learning
+## 💼 Experience
+
+### Machine Learning Intern — Cognifyz Technologies
+**March 2026 – April 2026**
+
+- Built the Cognifyz Restaurant Rating Prediction System
+- Performed data preprocessing and handled missing values
+- Encoded categorical features
+- Conducted exploratory data analysis
+- Implemented and tuned a Random Forest classifier
+- Improved model performance through feature selection
+
+---
+
+## 📜 Certifications
+
+- Microsoft — Explore AI Basics
+- Microsoft — Explore Generative AI
+- Microsoft — Manage Security in Active Directory
+- TATA / Forage — GenAI Powered Data Analytics Job Simulation
+- Remarkskill Education / Pragyan, NIT Trichy — AI with Machine Learning Workshop
+- Cognifyz Technologies — Machine Learning Internship Completion Certificate
+
+---
+
+## 🎯 Currently Learning
 
 ```text
-AI Engineering
-     ↓
+AI/ML Engineering
+       ↓
 Machine Learning
-     ↓
-Deep Learning
-     ↓
-NLP + Computer Vision
-     ↓
-Generative AI
-     ↓
-LLMs + RAG
-     ↓
-AI Agents
-     ↓
-Production AI Systems
+       ↓
+Generative AI & LLMs
+       ↓
+Reinforcement Learning
+       ↓
+AI Agents & Evaluation
+       ↓
+Production AI Applications
