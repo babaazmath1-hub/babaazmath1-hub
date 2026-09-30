@@ -10,13 +10,18 @@
 
 <a href="https://github.com/babaazmath1-hub">
 <img src="https://img.shields.io/badge/GitHub-BABAAZMATH1--HUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>     
-&nbsp;
+</a>
+
 <a href="https://www.linkedin.com/in/baba-azmath-5b798a379" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-AZMATH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://azmath-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-AZMATH-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 </div>
+
 
 <br>
 
